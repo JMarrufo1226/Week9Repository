@@ -1,0 +1,27 @@
+img {
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px #aaa;
+  }
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(4, 8, 8);
+}
+
+body {
+    background-color: pink;
+}
+
+form-sel {
+    option
+    background-color: aqua;
+}
+
+table {
+    text-align: center;
+}
